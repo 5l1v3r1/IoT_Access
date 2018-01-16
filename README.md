@@ -1,11 +1,7 @@
-# Awesome IoT Hacks
+# IoT Hacks
 
 A curated list of hacks in IoT space so that researchers and industrial products
 can address the security vulnerabilities (_hopefully_).
-
-The table of content is generated with
-[doctoc](https://github.com/thlorenz/doctoc). Make sure you run it and update
-the table of content before making pull requests.
 
 
 ## Analysis, Reports and Slides
