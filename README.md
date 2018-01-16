@@ -7,55 +7,11 @@ The table of content is generated with
 [doctoc](https://github.com/thlorenz/doctoc). Make sure you run it and update
 the table of content before making pull requests.
 
-## Contents
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-
-- [Analysis, Reports and Slides](#analysis-reports-and-slides)
-- [Communities](#communities)
-- [IoT Hacks](#iot-hacks)
-  - [Thingbots](#thingbots)
-  - [RFID](#rfid)
-  - [Home Automation](#home-automation)
-  - [Connected Doorbell](#connected-doorbell)
-  - [Hub](#hub)
-  - [Smart Coffee](#smart-coffee)
-  - [Wearable](#wearable)
-  - [Smart Plug](#smart-plug)
-  - [Cameras](#cameras)
-  - [Traffic Lights](#traffic-lights)
-  - [Automobiles](#automobiles)
-  - [Airplanes](#airplanes)
-  - [Light Bulbs](#light-bulbs)
-  - [Locks](#locks)
-  - [Smart Scale](#smart-scale)
-  - [Smart Meters](#smart-meters)
-  - [Pacemaker](#pacemaker)
-  - [Thermostats](#thermostats)
-  - [Fridge](#fridge)
-  - [Media Player & TV](#media-player--tv)
-  - [Rifle (Weapon)](#rifle-weapon)
-  - [Toilet](#toilet)
-  - [Toys](#toys)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Analysis, Reports and Slides
-
-- [Internet of Things Research Study (HP 2014 Report)](http://www8.hp.com/h20195/V2/GetPDF.aspx/4AA5-4759ENW.pdf)
-- [The Internet of Fails](http://www.slideshare.net/markstanislav/the-internet-of-fails-where-iot-has-gone-wrong-and-how-were-making-it-right),
-  ([video](www.youtube.com/watch?v=8hLeVSvoHqI))
 - [Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices](https://www.iotvillage.org/slides_DC23/IoT11-slides.pdf)
 - [Hack All The Things: 20 Devices in 45 Minutes](https://www.defcon.org/images/defcon-22/dc-22-presentations/Heres-Etemadieh-Baker-Nielsen/DEFCON-22-Heres-Etemadieh-Baker-Nielsen-Hack-All-The-Things.pdf) - ([wiki](https://www.exploitee.rs/), [video](www.youtube.com/watch?v=h5PRvBpLuJs))
 - [Careful Connections: Building Security in the Internet of Things (FTC)](https://www.ftc.gov/system/files/documents/plain-language/pdf0199-carefulconnections-buildingsecurityinternetofthings.pdf)
-
-## Communities
-
-- [IoT Village<sup>TM</sup>](https://www.iotvillage.org/)
-- [BuildItSecure.ly](http://builditsecure.ly/)
-- [Secure Internet of Things Project (Stanford)](http://iot.stanford.edu/people.html)
-- [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
 
 ## IoT Hacks
 
